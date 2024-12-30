@@ -65,7 +65,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-center gap-4 text-sm">
             <a 
-              href="https://github.com/yourusername/repo-name"
+              href="https://github.com/StarKnightt/GitHub-Visualizer"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-1 text-gray-300 hover:text-white transition-colors"
